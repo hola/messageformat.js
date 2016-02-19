@@ -31,6 +31,7 @@
     "lib/messageformat-parser.js",
     "bin/messageformat.js",
     "example",
+    "messageformat.js",
     "LICENSE",
     "README.md"
   ],
